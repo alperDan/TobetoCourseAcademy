@@ -1,0 +1,137 @@
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/ConsoleUI.exe
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/ConsoleUI.deps.json
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/ConsoleUI.runtimeconfig.json
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/ConsoleUI.dll
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/ConsoleUI.pdb
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Business.dll
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/DataAccess.dll
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Entities.dll
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Business.pdb
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/DataAccess.pdb
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Entities.pdb
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.AssemblyReference.cache
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.AssemblyInfoInputs.cache
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.AssemblyInfo.cs
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.CoreCompileInputs.cache
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.CopyComplete
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.dll
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/refint/ConsoleUI.dll
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.pdb
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.genruntimeconfig.cache
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ref/ConsoleUI.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/ConsoleUI.exe
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/ConsoleUI.deps.json
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/ConsoleUI.runtimeconfig.json
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/ConsoleUI.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/ConsoleUI.pdb
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Business.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/DataAccess.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Entities.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Business.pdb
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/DataAccess.pdb
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Entities.pdb
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.AssemblyReference.cache
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.AssemblyInfoInputs.cache
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.AssemblyInfo.cs
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.CoreCompileInputs.cache
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.CopyComplete
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/refint/ConsoleUI.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.pdb
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.genruntimeconfig.cache
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ref/ConsoleUI.dll
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/ConsoleUI
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/ConsoleUI.deps.json
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/ConsoleUI.runtimeconfig.json
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/ConsoleUI.dll
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/ConsoleUI.pdb
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Business.dll
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/DataAccess.dll
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Entities.dll
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Business.pdb
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/DataAccess.pdb
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Entities.pdb
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.AssemblyReference.cache
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.AssemblyInfoInputs.cache
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.AssemblyInfo.cs
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.CoreCompileInputs.cache
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.CopyComplete
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.dll
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/refint/ConsoleUI.dll
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.pdb
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.genruntimeconfig.cache
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ref/ConsoleUI.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.AssemblyReference.cache
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.AssemblyInfoInputs.cache
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.AssemblyInfo.cs
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.CoreCompileInputs.cache
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/refint/ConsoleUI.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.pdb
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/ConsoleUI
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/ConsoleUI.deps.json
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/ConsoleUI.runtimeconfig.json
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/ConsoleUI.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/ConsoleUI.pdb
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Azure.Core.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Azure.Identity.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Business.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/DataAccess.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Entities.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Business.pdb
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/DataAccess.pdb
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Entities.pdb
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.CopyComplete
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.genruntimeconfig.cache
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ref/ConsoleUI.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Core.dll
+/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Core.pdb

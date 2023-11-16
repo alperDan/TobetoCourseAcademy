@@ -1,0 +1,62 @@
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/DataAccess.deps.json
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/DataAccess.dll
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/DataAccess.pdb
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/Entities.dll
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/Entities.pdb
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.csproj.AssemblyReference.cache
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfoInputs.cache
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfo.cs
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CoreCompileInputs.cache
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CopyComplete
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.dll
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.pdb
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/DataAccess.deps.json
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/DataAccess.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/DataAccess.pdb
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/Entities.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/Entities.pdb
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.csproj.AssemblyReference.cache
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfoInputs.cache
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfo.cs
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CoreCompileInputs.cache
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CopyComplete
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.pdb
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/DataAccess.deps.json
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/DataAccess.dll
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/DataAccess.pdb
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/Entities.dll
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/Entities.pdb
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.csproj.AssemblyReference.cache
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfoInputs.cache
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfo.cs
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CopyComplete
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.dll
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.pdb
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll
+/Users/user/Projects/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/DataAccess.deps.json
+/Users/user/Projects/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/DataAccess.dll
+/Users/user/Projects/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/DataAccess.pdb
+/Users/user/Projects/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/Entities.dll
+/Users/user/Projects/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/Entities.pdb
+/Users/user/Projects/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.csproj.AssemblyReference.cache
+/Users/user/Projects/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfoInputs.cache
+/Users/user/Projects/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfo.cs
+/Users/user/Projects/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/user/Projects/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CopyComplete
+/Users/user/Projects/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.dll
+/Users/user/Projects/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
+/Users/user/Projects/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.pdb
+/Users/user/Projects/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll
+/Users/user/Projects/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/Core.dll
+/Users/user/Projects/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/Core.pdb

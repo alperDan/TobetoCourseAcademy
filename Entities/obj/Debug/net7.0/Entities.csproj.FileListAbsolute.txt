@@ -1,0 +1,49 @@
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.deps.json
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.dll
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.pdb
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.AssemblyInfoInputs.cache
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.AssemblyInfo.cs
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.csproj.CoreCompileInputs.cache
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.dll
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Entities/obj/Debug/net7.0/refint/Entities.dll
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.pdb
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Entities/obj/Debug/net7.0/ref/Entities.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.deps.json
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.pdb
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.AssemblyInfoInputs.cache
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.AssemblyInfo.cs
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.csproj.CoreCompileInputs.cache
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Entities/obj/Debug/net7.0/refint/Entities.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.pdb
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Entities/obj/Debug/net7.0/ref/Entities.dll
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.deps.json
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.dll
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.pdb
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.csproj.AssemblyReference.cache
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.AssemblyInfoInputs.cache
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.AssemblyInfo.cs
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.csproj.CoreCompileInputs.cache
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.dll
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Entities/obj/Debug/net7.0/refint/Entities.dll
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.pdb
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Entities/obj/Debug/net7.0/ref/Entities.dll
+/Users/user/Projects/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.deps.json
+/Users/user/Projects/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.dll
+/Users/user/Projects/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.pdb
+/Users/user/Projects/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.AssemblyInfoInputs.cache
+/Users/user/Projects/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.AssemblyInfo.cs
+/Users/user/Projects/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.csproj.CoreCompileInputs.cache
+/Users/user/Projects/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.dll
+/Users/user/Projects/TobetoCourseAcademy/Entities/obj/Debug/net7.0/refint/Entities.dll
+/Users/user/Projects/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.pdb
+/Users/user/Projects/TobetoCourseAcademy/Entities/obj/Debug/net7.0/ref/Entities.dll
+/Users/user/Projects/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Core.dll
+/Users/user/Projects/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Core.pdb
+/Users/user/Projects/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.csproj.AssemblyReference.cache
+/Users/user/Projects/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.csproj.CopyComplete

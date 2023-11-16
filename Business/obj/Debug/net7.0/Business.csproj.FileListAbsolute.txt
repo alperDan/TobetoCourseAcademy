@@ -1,0 +1,70 @@
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.csproj.AssemblyReference.cache
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.AssemblyInfoInputs.cache
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.AssemblyInfo.cs
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.csproj.CoreCompileInputs.cache
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Business/bin/Debug/net7.0/Business.deps.json
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Business/bin/Debug/net7.0/Business.dll
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Business/bin/Debug/net7.0/Business.pdb
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Business/bin/Debug/net7.0/DataAccess.dll
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Business/bin/Debug/net7.0/Entities.dll
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Business/bin/Debug/net7.0/DataAccess.pdb
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Business/bin/Debug/net7.0/Entities.pdb
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.csproj.CopyComplete
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.dll
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Business/obj/Debug/net7.0/refint/Business.dll
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.pdb
+C:/Users/SEVENCAN/source/repos/TobetoCourseAcademy/Business/obj/Debug/net7.0/ref/Business.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Business/bin/Debug/net7.0/Business.deps.json
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Business/bin/Debug/net7.0/Business.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Business/bin/Debug/net7.0/Business.pdb
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Business/bin/Debug/net7.0/DataAccess.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Business/bin/Debug/net7.0/Entities.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Business/bin/Debug/net7.0/DataAccess.pdb
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Business/bin/Debug/net7.0/Entities.pdb
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.csproj.AssemblyReference.cache
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.AssemblyInfoInputs.cache
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.AssemblyInfo.cs
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.csproj.CoreCompileInputs.cache
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.csproj.CopyComplete
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Business/obj/Debug/net7.0/refint/Business.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.pdb
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Business/obj/Debug/net7.0/ref/Business.dll
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Business/bin/Debug/net7.0/Business.deps.json
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Business/bin/Debug/net7.0/Business.dll
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Business/bin/Debug/net7.0/Business.pdb
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Business/bin/Debug/net7.0/DataAccess.dll
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Business/bin/Debug/net7.0/Entities.dll
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Business/bin/Debug/net7.0/DataAccess.pdb
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Business/bin/Debug/net7.0/Entities.pdb
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.csproj.AssemblyReference.cache
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.AssemblyInfoInputs.cache
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.AssemblyInfo.cs
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.csproj.CoreCompileInputs.cache
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.csproj.CopyComplete
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.dll
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Business/obj/Debug/net7.0/refint/Business.dll
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.pdb
+/Users/yusufugurlu/Desktop/desk/Tobeto_/TobetoCourseAcademy/Business/obj/Debug/net7.0/ref/Business.dll
+/Users/user/Projects/TobetoCourseAcademy/Business/bin/Debug/net7.0/Business.deps.json
+/Users/user/Projects/TobetoCourseAcademy/Business/bin/Debug/net7.0/Business.dll
+/Users/user/Projects/TobetoCourseAcademy/Business/bin/Debug/net7.0/Business.pdb
+/Users/user/Projects/TobetoCourseAcademy/Business/bin/Debug/net7.0/DataAccess.dll
+/Users/user/Projects/TobetoCourseAcademy/Business/bin/Debug/net7.0/Entities.dll
+/Users/user/Projects/TobetoCourseAcademy/Business/bin/Debug/net7.0/DataAccess.pdb
+/Users/user/Projects/TobetoCourseAcademy/Business/bin/Debug/net7.0/Entities.pdb
+/Users/user/Projects/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.csproj.AssemblyReference.cache
+/Users/user/Projects/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.AssemblyInfoInputs.cache
+/Users/user/Projects/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.AssemblyInfo.cs
+/Users/user/Projects/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.csproj.CoreCompileInputs.cache
+/Users/user/Projects/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.csproj.CopyComplete
+/Users/user/Projects/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.dll
+/Users/user/Projects/TobetoCourseAcademy/Business/obj/Debug/net7.0/refint/Business.dll
+/Users/user/Projects/TobetoCourseAcademy/Business/obj/Debug/net7.0/Business.pdb
+/Users/user/Projects/TobetoCourseAcademy/Business/obj/Debug/net7.0/ref/Business.dll
+/Users/user/Projects/TobetoCourseAcademy/Business/bin/Debug/net7.0/Core.dll
+/Users/user/Projects/TobetoCourseAcademy/Business/bin/Debug/net7.0/Core.pdb

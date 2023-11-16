@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{CC242BC9-C752-473A-B659-CED507F7C4D9}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Business/Concretes/CourseManager.cs">
+    <Files>
+      <File FileName="Business/Concretes/CourseManager.cs" Line="39" Column="14" />
+      <File FileName="ConsoleUI/Program.cs" />
+      <File FileName="Entities/DTOs/CourseDetailDto.cs" />
+      <File FileName="Business/Constants/Messages.cs" Line="15" Column="1" />
+      <File FileName="Core/Utilities/Results/ErrorDataResult.cs" />
+      <File FileName="Entities/Concretes/Course.cs" />
+      <File FileName="Entities/Concretes/Category.cs" />
+      <File FileName="Entities/Concretes/CourseInstructor.cs" />
+      <File FileName="Entities/Concretes/Instructor.cs" />
+      <File FileName="Entities/Concretes/Order.cs" />
+      <File FileName="Business/Abstracts/ICourseService.cs" />
+      <File FileName="Core/Utilities/Results/IDataResult.cs" />
+      <File FileName="Core/Utilities/Results/SuccessDataResult.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TobetoCourseAcademy" expanded="True">
+            <Node name="Business" expanded="True">
+              <Node name="Concretes" expanded="True">
+                <Node name="CourseManager.cs" selected="True" />
+              </Node>
+              <Node name="Constants" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
