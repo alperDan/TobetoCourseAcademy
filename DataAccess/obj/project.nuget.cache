@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "phaAUCCuv2kNyOzZNOzWDaDo8wNfM5c+pGY74PrGdN72bUWDRtmRfoCIiB78lihQtv1OSxUANkNL9+UO706LEQ==",
+  "dgSpecHash": "Erok4lz+M+ITnb9++vZXiUtJff8II34Vp0MEZhtUeEH8b83SuJdTGroLRYB1qUBamHW/n1+UgHw6gUnjtfPvtw==",
   "success": true,
-  "projectFilePath": "/Users/user/Projects/TobetoCourseAcademy/DataAccess/DataAccess.csproj",
+  "projectFilePath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/DataAccess/DataAccess.csproj",
   "expectedPackageFiles": [
     "/Users/user/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/user/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",

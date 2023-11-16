@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N7A3/gM62Q5RhNieV963ijVMQMpD9dg9Fx7W4leAMaEVPw/blr05OlHmU9J459QTjbpK898uHrivNnBy89wd1w==",
+  "dgSpecHash": "RIIePh5n1SXWnE+CUFewu1nIoefrCMJsqnFpzXmLRpxfCQ2a6Lkijpt94lNjDUX0h4O/2Mz6ZYKG2XvDtgDUzQ==",
   "success": true,
-  "projectFilePath": "/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/ConsoleUI.csproj",
+  "projectFilePath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/ConsoleUI/ConsoleUI.csproj",
   "expectedPackageFiles": [
     "/Users/user/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/user/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",

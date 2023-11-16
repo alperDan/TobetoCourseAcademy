@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/ConsoleUI.csproj": {}
+    "/Users/user/Documents/GitHub/TobetoCourseAcademy/ConsoleUI/ConsoleUI.csproj": {}
   },
   "projects": {
-    "/Users/user/Projects/TobetoCourseAcademy/Business/Business.csproj": {
+    "/Users/user/Documents/GitHub/TobetoCourseAcademy/Business/Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Projects/TobetoCourseAcademy/Business/Business.csproj",
+        "projectUniqueName": "/Users/user/Documents/GitHub/TobetoCourseAcademy/Business/Business.csproj",
         "projectName": "Business",
-        "projectPath": "/Users/user/Projects/TobetoCourseAcademy/Business/Business.csproj",
+        "projectPath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/Business/Business.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Projects/TobetoCourseAcademy/Business/obj/",
+        "outputPath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/Business/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.nuget/NuGet/NuGet.Config"
@@ -27,8 +27,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/user/Projects/TobetoCourseAcademy/DataAccess/DataAccess.csproj": {
-                "projectPath": "/Users/user/Projects/TobetoCourseAcademy/DataAccess/DataAccess.csproj"
+              "/Users/user/Documents/GitHub/TobetoCourseAcademy/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/DataAccess/DataAccess.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/ConsoleUI.csproj": {
+    "/Users/user/Documents/GitHub/TobetoCourseAcademy/ConsoleUI/ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/ConsoleUI.csproj",
+        "projectUniqueName": "/Users/user/Documents/GitHub/TobetoCourseAcademy/ConsoleUI/ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/ConsoleUI.csproj",
+        "projectPath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/ConsoleUI/ConsoleUI.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/obj/",
+        "outputPath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/ConsoleUI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.nuget/NuGet/NuGet.Config"
@@ -85,14 +85,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/user/Projects/TobetoCourseAcademy/Business/Business.csproj": {
-                "projectPath": "/Users/user/Projects/TobetoCourseAcademy/Business/Business.csproj"
+              "/Users/user/Documents/GitHub/TobetoCourseAcademy/Business/Business.csproj": {
+                "projectPath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/Business/Business.csproj"
               },
-              "/Users/user/Projects/TobetoCourseAcademy/DataAccess/DataAccess.csproj": {
-                "projectPath": "/Users/user/Projects/TobetoCourseAcademy/DataAccess/DataAccess.csproj"
+              "/Users/user/Documents/GitHub/TobetoCourseAcademy/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/DataAccess/DataAccess.csproj"
               },
-              "/Users/user/Projects/TobetoCourseAcademy/Entities/Entities.csproj": {
-                "projectPath": "/Users/user/Projects/TobetoCourseAcademy/Entities/Entities.csproj"
+              "/Users/user/Documents/GitHub/TobetoCourseAcademy/Entities/Entities.csproj": {
+                "projectPath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/Entities/Entities.csproj"
               }
             }
           }
@@ -126,14 +126,14 @@
         }
       }
     },
-    "/Users/user/Projects/TobetoCourseAcademy/Core/Core.csproj": {
+    "/Users/user/Documents/GitHub/TobetoCourseAcademy/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Projects/TobetoCourseAcademy/Core/Core.csproj",
+        "projectUniqueName": "/Users/user/Documents/GitHub/TobetoCourseAcademy/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "/Users/user/Projects/TobetoCourseAcademy/Core/Core.csproj",
+        "projectPath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/Core/Core.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Projects/TobetoCourseAcademy/Core/obj/",
+        "outputPath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.nuget/NuGet/NuGet.Config"
@@ -186,14 +186,14 @@
         }
       }
     },
-    "/Users/user/Projects/TobetoCourseAcademy/DataAccess/DataAccess.csproj": {
+    "/Users/user/Documents/GitHub/TobetoCourseAcademy/DataAccess/DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Projects/TobetoCourseAcademy/DataAccess/DataAccess.csproj",
+        "projectUniqueName": "/Users/user/Documents/GitHub/TobetoCourseAcademy/DataAccess/DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "/Users/user/Projects/TobetoCourseAcademy/DataAccess/DataAccess.csproj",
+        "projectPath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/DataAccess/DataAccess.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Projects/TobetoCourseAcademy/DataAccess/obj/",
+        "outputPath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/DataAccess/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.nuget/NuGet/NuGet.Config"
@@ -209,11 +209,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/user/Projects/TobetoCourseAcademy/Core/Core.csproj": {
-                "projectPath": "/Users/user/Projects/TobetoCourseAcademy/Core/Core.csproj"
+              "/Users/user/Documents/GitHub/TobetoCourseAcademy/Core/Core.csproj": {
+                "projectPath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/Core/Core.csproj"
               },
-              "/Users/user/Projects/TobetoCourseAcademy/Entities/Entities.csproj": {
-                "projectPath": "/Users/user/Projects/TobetoCourseAcademy/Entities/Entities.csproj"
+              "/Users/user/Documents/GitHub/TobetoCourseAcademy/Entities/Entities.csproj": {
+                "projectPath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/Entities/Entities.csproj"
               }
             }
           }
@@ -253,14 +253,14 @@
         }
       }
     },
-    "/Users/user/Projects/TobetoCourseAcademy/Entities/Entities.csproj": {
+    "/Users/user/Documents/GitHub/TobetoCourseAcademy/Entities/Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Projects/TobetoCourseAcademy/Entities/Entities.csproj",
+        "projectUniqueName": "/Users/user/Documents/GitHub/TobetoCourseAcademy/Entities/Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "/Users/user/Projects/TobetoCourseAcademy/Entities/Entities.csproj",
+        "projectPath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/Entities/Entities.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Projects/TobetoCourseAcademy/Entities/obj/",
+        "outputPath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/Entities/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.nuget/NuGet/NuGet.Config"
@@ -276,8 +276,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/user/Projects/TobetoCourseAcademy/Core/Core.csproj": {
-                "projectPath": "/Users/user/Projects/TobetoCourseAcademy/Core/Core.csproj"
+              "/Users/user/Documents/GitHub/TobetoCourseAcademy/Core/Core.csproj": {
+                "projectPath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/Core/Core.csproj"
               }
             }
           }

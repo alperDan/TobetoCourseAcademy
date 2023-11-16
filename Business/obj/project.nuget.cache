@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5MOFzBbY74qgkkTQ2B1cn/d8Me3wGt2F6Us9wa8Jx8RSB71xrE8Zus0B/vJ+0V+b0P42RHjMMgMSm1ZL3wee9A==",
+  "dgSpecHash": "JLC0/Q0yAykQjeoQIbowUp2gdloFXbaNv3udgeU4uhWfaXlR9rHCB255YeSLbDeZByCaO1GM0Ez6TbsIZuds/A==",
   "success": true,
-  "projectFilePath": "/Users/user/Projects/TobetoCourseAcademy/Business/Business.csproj",
+  "projectFilePath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/Business/Business.csproj",
   "expectedPackageFiles": [
     "/Users/user/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/user/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",

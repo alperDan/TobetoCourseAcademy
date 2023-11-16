@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Projects/TobetoCourseAcademy/Core/Core.csproj": {}
+    "/Users/user/Documents/GitHub/TobetoCourseAcademy/Core/Core.csproj": {}
   },
   "projects": {
-    "/Users/user/Projects/TobetoCourseAcademy/Core/Core.csproj": {
+    "/Users/user/Documents/GitHub/TobetoCourseAcademy/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Projects/TobetoCourseAcademy/Core/Core.csproj",
+        "projectUniqueName": "/Users/user/Documents/GitHub/TobetoCourseAcademy/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "/Users/user/Projects/TobetoCourseAcademy/Core/Core.csproj",
+        "projectPath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/Core/Core.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Projects/TobetoCourseAcademy/Core/obj/",
+        "outputPath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.nuget/NuGet/NuGet.Config"

@@ -2698,11 +2698,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/ConsoleUI.csproj",
+      "projectUniqueName": "/Users/user/Documents/GitHub/TobetoCourseAcademy/ConsoleUI/ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/ConsoleUI.csproj",
+      "projectPath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/ConsoleUI/ConsoleUI.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Projects/TobetoCourseAcademy/ConsoleUI/obj/",
+      "outputPath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/ConsoleUI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user/.nuget/NuGet/NuGet.Config"
@@ -2718,14 +2718,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/user/Projects/TobetoCourseAcademy/Business/Business.csproj": {
-              "projectPath": "/Users/user/Projects/TobetoCourseAcademy/Business/Business.csproj"
+            "/Users/user/Documents/GitHub/TobetoCourseAcademy/Business/Business.csproj": {
+              "projectPath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/Business/Business.csproj"
             },
-            "/Users/user/Projects/TobetoCourseAcademy/DataAccess/DataAccess.csproj": {
-              "projectPath": "/Users/user/Projects/TobetoCourseAcademy/DataAccess/DataAccess.csproj"
+            "/Users/user/Documents/GitHub/TobetoCourseAcademy/DataAccess/DataAccess.csproj": {
+              "projectPath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/DataAccess/DataAccess.csproj"
             },
-            "/Users/user/Projects/TobetoCourseAcademy/Entities/Entities.csproj": {
-              "projectPath": "/Users/user/Projects/TobetoCourseAcademy/Entities/Entities.csproj"
+            "/Users/user/Documents/GitHub/TobetoCourseAcademy/Entities/Entities.csproj": {
+              "projectPath": "/Users/user/Documents/GitHub/TobetoCourseAcademy/Entities/Entities.csproj"
             }
           }
         }
