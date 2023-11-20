@@ -1,4 +1,6 @@
 ﻿using Business.Abstracts;
+using Business.Constants;
+using Core.Utilities.Results;
 using DataAccess.Abstracts;
 using DataAccess.Concretes;
 using Entities.Concretes;
@@ -19,21 +21,38 @@ namespace Business.Concretes
             _instructor = instructor;
         }
 
-        public List<Instructor> GetAll()
+        public IResult Add(Instructor instructor)
         {
-            return _instructor.GetAll();
+
+            _instructor.Add(instructor);
+            return new Result(true, Messages.Added);
         }
 
-        public List<Instructor> GetById(int id)
+        public IResult Delete(Instructor instructor)
         {
-            return _instructor.GetAll(p=>p.Id==id);
+            _instructor.Delete(instructor);
+            return new Result(true, Messages.Deleted);
         }
 
-        public List<Instructor> GetByName(string name)
+        public IDataResult<List<Instructor>> GetAll()
         {
-            return _instructor.GetAll(p => p.Name == name);
+            return new SuccessDataResult<List<Instructor>>(_instructor.GetAll(), Messages.Listed);
         }
 
+        public IDataResult<Instructor> GetById(int id)
+        {
+            return new SuccessDataResult<Instructor>(_instructor.Get(p => p.Id == id));
+        }
 
+        public IDataResult<List<Instructor>> GetByName(string name)
+        {
+            return new SuccessDataResult<List<Instructor>>(_instructor.GetAll(p => p.Name == name));
+        }
+
+        public IResult Update(Instructor instructor)
+        {
+            _instructor.Update(instructor);
+            return new Result(true, Messages.Updated);
+        }
     }
 }

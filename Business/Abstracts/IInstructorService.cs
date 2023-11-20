@@ -1,14 +1,20 @@
 ﻿using System;
+using Core.Utilities.Results;
 using Entities.Concretes;
 
 namespace Business.Abstracts
 {
 	public interface IInstructorService
 	{
-        List<Instructor> GetAll();
-        List<Instructor> GetById(int id);
-        List<Instructor> GetByName(string name);
-       
+        IDataResult<List<Instructor>> GetAll();
+        IDataResult<Instructor> GetById(int id);
+        IDataResult<List<Instructor>> GetByName(string name);
+
+        
+        IResult Add(Instructor instructor);
+        IResult Update(Instructor instructor);
+        IResult Delete(Instructor instructor);
+
     }
 }
 

@@ -27,10 +27,16 @@ namespace Business.Concretes
         {
             if (course.CourseName.Length<2)
             {
-                return new ErrorResult(Messages.CourseNameInValid);
+                return new ErrorResult(Messages.NameInValid);
             }
             _courseDal.Add(course);
-            return new Result(true,Messages.CourseAdded);
+            return new Result(true,Messages.Added);
+        }
+
+        public IResult Delete(Course course)
+        {
+            _courseDal.Delete(course);
+            return new SuccessResult(Messages.Deleted);
         }
 
         public IDataResult<List<Course>> GetAll()
@@ -39,7 +45,7 @@ namespace Business.Concretes
             {
                 return new ErrorDataResult<List<Course>>(Messages.MaintenanaceTime);
             }
-            return new SuccessDataResult<List<Course>>(_courseDal.GetAll(),Messages.CourseListed);
+            return new SuccessDataResult<List<Course>>(_courseDal.GetAll(),Messages.Listed);
         }
 
         public IDataResult<List<Course>> GetByCategoryId(int id)
@@ -65,6 +71,12 @@ namespace Business.Concretes
         public IDataResult<List<CourseDetailDto>> GetCourseDetails()
         {
             return new SuccessDataResult<List<CourseDetailDto>>(_courseDal.GetCourseDetail());
+        }
+
+        public IResult Update(Course course)
+        {
+            _courseDal.Update(course);
+            return new SuccessResult(Messages.Updated);
         }
     }
 }

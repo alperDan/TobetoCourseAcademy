@@ -1,4 +1,6 @@
 ﻿using Business.Abstracts;
+using Business.Constants;
+using Core.Utilities.Results;
 using DataAccess.Abstracts;
 using DataAccess.Concretes;
 using Entities.Concretes;
@@ -19,14 +21,40 @@ namespace Business.Concretes
             _categoryDal = categoryDal;
         }
 
-        public List<Category> GetAll()
+        public IResult Add(Category category)
         {
-            return _categoryDal.GetAll();
+            if (category.CategoryName.Length < 2)
+            {
+                return new ErrorResult(Messages.NameInValid);
+            }
+            _categoryDal.Add(category);
+            return new Result(true, Messages.Added);
         }
 
-        public List<Category> GetAllByCategoryId(int id)
+        public IResult Delete(Category category)
         {
-            return _categoryDal.GetAll(p=>p.CategoryId==id);
+            _categoryDal.Delete(category);
+            return new Result(true, Messages.Deleted);
+        }
+
+        public IDataResult<List<Category>> GetAll()
+        {
+            if (DateTime.Now.Hour == 1)
+            {
+                return new ErrorDataResult<List<Category>>(Messages.MaintenanaceTime);
+            }
+            return new SuccessDataResult<List<Category>>(_categoryDal.GetAll(), Messages.Listed);
+        }
+
+        public IDataResult<Category> GetById(int Id)
+        {
+            return new SuccessDataResult<Category>(_categoryDal.Get(p => p.CategoryId == Id));
+        }
+
+        public IResult Update(Category category)
+        {
+            _categoryDal.Update(category);
+            return new Result(true, Messages.Updated);
         }
 
         

@@ -1,6 +1,9 @@
 ﻿using Business.Abstracts;
+using Business.Constants;
+using Core.Utilities.Results;
 using DataAccess.Abstracts;
 using DataAccess.Concretes;
+using DataAccess.Concretes.EntityFramework;
 using Entities.Concretes;
 using System;
 using System.Collections.Generic;
@@ -19,19 +22,47 @@ namespace Business.Concretes
             _courseInsturcter = courseInsturcter;
         }
 
-        public List<CourseInstructor> GetAll()
+        public IResult Add(CourseInstructor courseInstructor)
         {
-            return _courseInsturcter.GetAll();
+
+            _courseInsturcter.Add(courseInstructor);
+            return new Result(true, Messages.Added);
         }
 
-        public List<CourseInstructor> GetAllByCourseId(int id)
+        public IResult Delete(CourseInstructor courseInstructor)
         {
-            return _courseInsturcter.GetAll(p=>p.CourseId==id);
+            _courseInsturcter.Delete(courseInstructor);
+            return new Result(true, Messages.Deleted);
         }
 
-        public List<CourseInstructor> GetAllByInstructorId(int id)
+        public IDataResult<List<CourseInstructor>> GetAll()
         {
-            return _courseInsturcter.GetAll(p => p.InstructorId == id);
+            if (DateTime.Now.Hour == 1)
+            {
+                return new ErrorDataResult<List<CourseInstructor>>(Messages.MaintenanaceTime);
+            }
+            return new SuccessDataResult<List<CourseInstructor>>(_courseInsturcter.GetAll(), Messages.Listed);
+        }
+
+        public IDataResult<List<CourseInstructor>> GetAllByCourseId(int id)
+        {
+            return new SuccessDataResult<List<CourseInstructor>>(_courseInsturcter.GetAll(p=>p.CourseId==id), Messages.Listed);
+        }
+
+        public IDataResult<List<CourseInstructor>> GetAllByInstructorId(int id)
+        {
+            return new SuccessDataResult<List<CourseInstructor>>(_courseInsturcter.GetAll(p => p.InstructorId == id), Messages.Listed);
+        }
+
+        public IDataResult<CourseInstructor> GetById(int Id)
+        {
+            return new SuccessDataResult<CourseInstructor>(_courseInsturcter.Get(p => p.Id == Id), Messages.Listed);
+        }
+
+        public IResult Update(CourseInstructor courseInstructor)
+        {
+            _courseInsturcter.Update(courseInstructor);
+            return new Result(true, Messages.Updated);
         }
     }
 }
