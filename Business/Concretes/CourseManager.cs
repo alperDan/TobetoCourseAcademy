@@ -1,11 +1,15 @@
 ﻿using Business.Abstracts;
 using Business.Constants;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Validation;
+using Core.CrossCuttingConcerns.Validation;
 using Core.Utilities.Results;
 using DataAccess;
 using DataAccess.Abstracts;
 using DataAccess.Concretes;
 using Entities.Concretes;
 using Entities.DTOs;
+using FluentValidation;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,12 +27,11 @@ namespace Business.Concretes
             _courseDal = courseDal;
         }
 
+
+
+        [ValidationAspect(typeof(CourseValidator))]
         public IResult Add(Course course)
         {
-            if (course.CourseName.Length<2)
-            {
-                return new ErrorResult(Messages.NameInValid);
-            }
             _courseDal.Add(course);
             return new Result(true,Messages.Added);
         }

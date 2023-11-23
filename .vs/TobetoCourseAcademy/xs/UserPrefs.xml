@@ -1,19 +1,34 @@
 ﻿<Properties StartupConfiguration="{E4B65A7C-0C8E-4C58-AFDA-FCB7C39FF6EE}|https">
-  <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="/Users/user/Desktop/Folders/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="/Users/user/Desktop/Folders/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebAPI/Program.cs">
+    <Files>
+      <File FileName="WebAPI/Program.cs" Line="2" Column="46" />
+      <File FileName="Business/DependencyResolvers/Autofac/AutofacBusinessModule.cs" Line="19" Column="2" />
+      <File FileName="Business/Concretes/CourseManager.cs" Line="1" Column="1" />
+      <File FileName="Business/ValidationRules/FluentValidation/CourseValidator.cs" Line="15" Column="50" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TobetoCourseAcademy" expanded="True" />
+          <Node name="TobetoCourseAcademy" expanded="True">
+            <Node name="Business">
+              <Node name="Abstracts" expanded="True" />
+              <Node name="ValidationRules" expanded="True" />
+            </Node>
+            <Node name="DataAccess" expanded="True">
+              <Node name="Abstracts" expanded="True" />
+            </Node>
+            <Node name="WebAPI">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

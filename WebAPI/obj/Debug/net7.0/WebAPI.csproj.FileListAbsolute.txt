@@ -77,3 +77,6 @@
 /Users/user/Documents/GitHub/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Core.pdb
 /Users/user/Documents/GitHub/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Entities.pdb
 /Users/user/Documents/GitHub/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/DataAccess.pdb
+/Users/user/Documents/GitHub/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Autofac.dll
+/Users/user/Documents/GitHub/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Autofac.Extras.DynamicProxy.dll
+/Users/user/Documents/GitHub/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Castle.Core.dll
